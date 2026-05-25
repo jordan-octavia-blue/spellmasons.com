@@ -10,11 +10,6 @@
             "name": "Community Server - Lion",
             "url": "wss://lion-app-w5w4c.ondigitalocean.app/",
             "region": "Europe"
-        },
-        {
-            "name": "Community Server - Dolphin",
-            "url": "wss://squid-app-r8p8w.ondigitalocean.app/",
-            "region": "Asia"
         }
     ],
     "message": "",
